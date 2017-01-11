@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: JP-KRbot
+  host: JP-KRbot
+  disk_quota: 1024M
